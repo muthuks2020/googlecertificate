@@ -8,32 +8,35 @@
 | **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/data-engineer | 
 
 ### Posts
-| Published | Title/Link | Author |
-| :---:         |     :---      |          :--- |
-| 2020/09 | [GCP Professional Data Engineer Guide](https://metanube.org/2020/09/10/gcp-professional-data-engineer-guide-september-2020/) | A Estevez |
-| 2020/07 | [preparation, tips, and my journey from failing to passing experience](https://medium.com/@kshitijmb/gcp-data-engineer-exam-preparation-important-tips-and-my-emotional-journey-from-failing-to-132d91dc75f8) | Kshitij Bhadage |
-| 2020/05 | [Data Engineering on GCP Specialisation](https://towardsdatascience.com/data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7) | Alex Papageorgiou |
-| 2020/04 | [How to Prepare for GCP PDE Exam](https://medium.com/@hardikr68/how-to-prepare-for-and-clear-the-gcp-professional-data-engineer-exam-7e7ff518cf4a) | Hardik Rathod |
-| 2020/02 | [Topics in the GCP PDE Exam](https://developer.rackspace.com/blog/topics-in-the-google-cloud-professional-data-engineer-certification-exam/) | Sabeehah Ahmed |
-| 2020/02 | [My personal road map and thoughts in 2020](https://medium.com/@helpthx/google-cloud-professional-data-engineer-certification-my-personal-road-map-and-thoughts-in-2020-b78f5e1984ca) | João Vitor Baptista |
-| 2020/01 | [How I pass the GCP Data Engineer exam - Key points to study and personal experience](https://medium.com/@kennycontreras/how-i-pass-the-gcp-data-engineer-exam-key-points-to-study-and-personal-experience-4eec4d7d3396) | Kenny Contreras |
-| 2019/12 | [How to pass the Google Cloud Professional Data Engineer exam](https://towardsdatascience.com/how-to-pass-the-google-cloud-professional-data-engineer-exam-f241d7191e47?source=friends_link&sk=ede0b669e5bf68a8e699a3443b9fb087) | Jonathan M |
+
+
+
+| Title/Link | Author |
+| ------------ | ------------ |
+|  [GCP Professional Data Engineer Guide](https://metanube.org/2020/09/10/gcp-professional-data-engineer-guide-september-2020/) | A Estevez |
+|  [preparation, tips, and my journey from failing to passing experience](https://medium.com/@kshitijmb/gcp-data-engineer-exam-preparation-important-tips-and-my-emotional-journey-from-failing-to-132d91dc75f8) | Kshitij Bhadage |
+|  [Data Engineering on GCP Specialisation](https://towardsdatascience.com/data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7) | Alex Papageorgiou |
+|  [How to Prepare for GCP PDE Exam](https://medium.com/@hardikr68/how-to-prepare-for-and-clear-the-gcp-professional-data-engineer-exam-7e7ff518cf4a) | Hardik Rathod |
+|  [Topics in the GCP PDE Exam](https://developer.rackspace.com/blog/topics-in-the-google-cloud-professional-data-engineer-certification-exam/) | Sabeehah Ahmed |
+|  [My personal road map and thoughts in 2020](https://medium.com/@helpthx/google-cloud-professional-data-engineer-certification-my-personal-road-map-and-thoughts-in-2020-b78f5e1984ca) | João Vitor Baptista |
+|  [How I pass the GCP Data Engineer exam - Key points to study and personal experience](https://medium.com/@kennycontreras/how-i-pass-the-gcp-data-engineer-exam-key-points-to-study-and-personal-experience-4eec4d7d3396) | Kenny Contreras |
+| [How to pass the Google Cloud Professional Data Engineer exam](https://towardsdatascience.com/how-to-pass-the-google-cloud-professional-data-engineer-exam-f241d7191e47?source=friends_link&sk=ede0b669e5bf68a8e699a3443b9fb087) | Jonathan M |
 | | [Google Cloud - Professional Data Engineer Exam Study Materials](https://github.com/Leverege/gcp-data-engineer-exam) | Leverege Developers |
-| 2019/12 | [Road to Success — Professional Data Engineer](https://medium.com/@biswarup.ghoshal/road-to-success-professional-data-engineer-google-cloud-platform-41115fcf510e) | Biswarup Ghoshal |
-| 2019/10 | [The Ultimate Hack to passing Data Engineer exam](https://medium.com/@sodiumsun/the-ultimate-hack-to-passing-google-cloud-professional-data-engineer-certification-exam-2019-oct-663b2dfac492) | Kelly Sun |
-| 2019/07 | [How to pass the Cloud Architect and Data Engineer GCP certifications](https://medium.com/ci-t/how-to-pass-both-the-cloud-architect-and-data-engineer-gcp-certifications-bb6a0812a1b1) | Ivam Luz |
-| 2019/05 | [Concepts to focus for passing Google Cloud PDE Exam](https://medium.com/@srividyaramaraju/concepts-to-focus-for-passing-google-cloud-professional-data-engineer-exam-8ce5f9048cc1) | Srividya Ramaraju |
-| 2019/02 | [PDE— Roadmap for preparation](https://medium.com/globallogic-cloud-and-devops-blogs/google-cloud-professional-data-engineer-roadmap-for-preparation-94e881d43382) | Pankaj K |
-| 2019/01 | [Professional Data Engineer Certification— my personal study guide!](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3) | Guang X |
-| 2019/04 | [Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/) | Dmitri Lerko |
-| 2019/01 | [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0) | Sathish VJ |
-| 2019/01 | [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
-| 2019/01 | [Cheat sheet](https://www.slideshare.net/GuangXu5/gcp-data-engineer-cheatsheet) | Guang Xu |
-| 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
-| 2018/11 | [Preparing for the Google Cloud](https://tzamtzis.gr/2018/digital-analytics/becoming-gcp-data-engineer/) | Panagiotis |
+|  [Road to Success — Professional Data Engineer](https://medium.com/@biswarup.ghoshal/road-to-success-professional-data-engineer-google-cloud-platform-41115fcf510e) | Biswarup Ghoshal |
+| [The Ultimate Hack to passing Data Engineer exam](https://medium.com/@sodiumsun/the-ultimate-hack-to-passing-google-cloud-professional-data-engineer-certification-exam-2019-oct-663b2dfac492) | Kelly Sun |
+|  [How to pass the Cloud Architect and Data Engineer GCP certifications](https://medium.com/ci-t/how-to-pass-both-the-cloud-architect-and-data-engineer-gcp-certifications-bb6a0812a1b1) | Ivam Luz |
+|  [Concepts to focus for passing Google Cloud PDE Exam](https://medium.com/@srividyaramaraju/concepts-to-focus-for-passing-google-cloud-professional-data-engineer-exam-8ce5f9048cc1) | Srividya Ramaraju |
+|  [PDE— Roadmap for preparation](https://medium.com/globallogic-cloud-and-devops-blogs/google-cloud-professional-data-engineer-roadmap-for-preparation-94e881d43382) | Pankaj K |
+|  [Professional Data Engineer Certification— my personal study guide!](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3) | Guang X |
+| [Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/) | Dmitri Lerko |
+|  [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0) | Sathish VJ |
+|  [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
+| [Cheat sheet](https://www.slideshare.net/GuangXu5/gcp-data-engineer-cheatsheet) | Guang Xu |
+| [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
+|  [Preparing for the Google Cloud](https://tzamtzis.gr/2018/digital-analytics/becoming-gcp-data-engineer/) | Panagiotis |
 | 2018/10 | [How to pass your Google Cloud Platform Professional Data Engineer exam](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020) | vinoaj |
-| 2018/10 | [A Study Guide to the Google Cloud Professional Data Engineer Certification Path](https://medium.com/@simonleewm/a-study-guide-to-the-google-cloud-professional-data-engineer-certification-path-9e83e41e311) | Simon Lee |
-| 2017/12 | [Google Cloud Certified Professional - Data Engineer Track](https://www.linkedin.com/pulse/google-cloud-certified-professional-data-engineer-writeup-rix/) | Kayleigh Rix |
+| [A Study Guide to the Google Cloud Professional Data Engineer Certification Path](https://medium.com/@simonleewm/a-study-guide-to-the-google-cloud-professional-data-engineer-certification-path-9e83e41e311) | Simon Lee |
+|  [Google Cloud Certified Professional - Data Engineer Track](https://www.linkedin.com/pulse/google-cloud-certified-professional-data-engineer-writeup-rix/) | Kayleigh Rix |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
