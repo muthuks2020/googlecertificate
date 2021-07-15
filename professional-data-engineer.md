@@ -45,12 +45,12 @@
 | Udemy | [Google Cloud - Professional Data Engineer Practice Exams](https://www.udemy.com/google-cloud-certified-professional-data-engineer-practice-exams/) | |
 
 ### Books
-| Published | Title/Link | Author |
-| :---:         |     :---      |          :--- |
-| 2020/05 | [Official PDE Study Guide](https://www.wiley.com/en-in/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-p-9781119618454) | Dan Sullivan |
-| | [Data Science on the Google Cloud Platform](https://www.google.com/search?q=Data%20Science%20on%20the%20Google%20Cloud%20Platform) | Valliappa Lakshmanan |
-| | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.google.com/search?q=Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow) | Aurélien Géron |
-| 2019/10 | [Google BigQuery: The Definitive Guide](https://www.google.com/search?q=bigquery+the+definitive+guide+Book+by+Jordan+Tigani+and+Valliappa+Lakshmanan) | Jordan Tigani & Valliappa Lakshmanan |
+|  Title/Link | Author |
+| ------------ | ------------ |
+|  [Official PDE Study Guide](https://www.wiley.com/en-in/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-p-9781119618454) | Dan Sullivan |
+| [Data Science on the Google Cloud Platform](https://www.google.com/search?q=Data%20Science%20on%20the%20Google%20Cloud%20Platform) | Valliappa Lakshmanan |
+|  [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.google.com/search?q=Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow) | Aurélien Géron |
+| [Google BigQuery: The Definitive Guide](https://www.google.com/search?q=bigquery+the+definitive+guide+Book+by+Jordan+Tigani+and+Valliappa+Lakshmanan) | Jordan Tigani & Valliappa Lakshmanan |
 
 ### Videos / Sessions
 | Published | Title/Link | Instructor |
@@ -72,11 +72,13 @@
 | pluralsight | [Google: Professional Cloud Data Engineer](https://www.pluralsight.com/paths/google-professional-cloud-data-engineer) | Janani Ravi, Vitthal Srinivasan |
 
 ### Cheat Sheets
-| Published | Title/Link | Author |
-| :---:         |     :---      |          :--- |
-| | [Data Engineering on GCP ](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf) | Maverick Lin |
-| | [A TensorFlow Glossary/Cheat Sheet](https://medium.com/google-cloud/a-tensorflow-glossary-cheat-sheet-382583b22932) | Bill Prin |
-| | [GCP Data Engineer cheatsheet](https://www.slideshare.net/GuangXu5/gcp-data-engineer-cheatsheet) | Guang Xu|
+
+
+|  Title/Link | Author |
+| ------------ | ------------ |
+|  [Data Engineering on GCP ](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf) | Maverick Lin |
+|  [A TensorFlow Glossary/Cheat Sheet](https://medium.com/google-cloud/a-tensorflow-glossary-cheat-sheet-382583b22932) | Bill Prin |
+|  [GCP Data Engineer cheatsheet](https://www.slideshare.net/GuangXu5/gcp-data-engineer-cheatsheet) | Guang Xu|
 
 ### Qwiklabs Links
 |  Title/Link  |
@@ -99,7 +101,10 @@
 | [BigQuery for Machine Learning](https://google.qwiklabs.com/quests/71) | 
 
 ### Deep Dive Links
+
+
+
 | Published | Topic | Title/Link | Instructor |
-| :---:     | :---  |   :---     |   :---     |
-| 2020/02 | Cloud Spanner | [Internals of Google Cloud Spanner](https://thedataguy.in/internals-of-google-cloud-spanner/) | Bhuvanesh |
+| ------------ | ------------ | ------------ |
+|  Cloud Spanner | [Internals of Google Cloud Spanner](https://thedataguy.in/internals-of-google-cloud-spanner/) | Bhuvanesh |
 
