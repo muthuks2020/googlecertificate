@@ -9,7 +9,7 @@
 | **Length:** | 2 hours | 
 | **Registration fee:** | $125 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
-| **Recommended experience:** | 6 months+ hands-on experience with GCP. | 
+
 | **Official Practice Exam:** | https://cloud.google.com/certification/practice-exam/cloud-engineer | 
 
 ### Posts
