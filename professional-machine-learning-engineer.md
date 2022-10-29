@@ -10,6 +10,7 @@
 ### Posts
 | Title/Link | Author |
 |    :---      |          :--- |
+| [How I passed the Google Cloud PMLEexam (Vertex AI)]([https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5](https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac) | Joshua Tan |
 | [How I Passed the GCP Professional ML Engineer Certification](https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) | Arthur Mello |
 | [How I Passed the GCP Professional ML Engineer Certification](https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) | Arthur Mello |
 |   [Notes from my GCP PMLE Exam](https://sathishvj.medium.com/notes-from-my-google-cloud-professional-machine-learning-engineer-certification-exam-2110998db0f5) | Sathish VJ |
