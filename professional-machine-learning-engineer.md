@@ -11,7 +11,7 @@
 | Title/Link | Author |
 |    :---      |          :--- |
 | [How I passed the Google Cloud PMLEexam (Vertex AI)](https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac) | Joshua Tan |
-| [How I Passed the GCP Professional ML Engineer Certification](https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) | Arthur Mello |
+| [How to prepare for the GCP PMLEexam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f) | Gabriel Cassimiro |
 | [How I Passed the GCP Professional ML Engineer Certification](https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) | Arthur Mello |
 |   [Notes from my GCP PMLE Exam](https://sathishvj.medium.com/notes-from-my-google-cloud-professional-machine-learning-engineer-certification-exam-2110998db0f5) | Sathish VJ |
 |  [How I cracked the GCP PMLE certification in 8 days!](https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0) | Hasan Rafiq |
